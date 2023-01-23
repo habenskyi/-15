@@ -1,0 +1,15 @@
+C:\Cisharp\Seminar1\Homework15\obj\Debug\net6.0\Homework15.csproj.AssemblyReference.cache
+C:\Cisharp\Seminar1\Homework15\obj\Debug\net6.0\Homework15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cisharp\Seminar1\Homework15\obj\Debug\net6.0\Homework15.AssemblyInfoInputs.cache
+C:\Cisharp\Seminar1\Homework15\obj\Debug\net6.0\Homework15.AssemblyInfo.cs
+C:\Cisharp\Seminar1\Homework15\obj\Debug\net6.0\Homework15.csproj.CoreCompileInputs.cache
+C:\Cisharp\Seminar1\Homework15\bin\Debug\net6.0\Homework15.exe
+C:\Cisharp\Seminar1\Homework15\bin\Debug\net6.0\Homework15.deps.json
+C:\Cisharp\Seminar1\Homework15\bin\Debug\net6.0\Homework15.runtimeconfig.json
+C:\Cisharp\Seminar1\Homework15\bin\Debug\net6.0\Homework15.dll
+C:\Cisharp\Seminar1\Homework15\bin\Debug\net6.0\Homework15.pdb
+C:\Cisharp\Seminar1\Homework15\obj\Debug\net6.0\Homework15.dll
+C:\Cisharp\Seminar1\Homework15\obj\Debug\net6.0\refint\Homework15.dll
+C:\Cisharp\Seminar1\Homework15\obj\Debug\net6.0\Homework15.pdb
+C:\Cisharp\Seminar1\Homework15\obj\Debug\net6.0\Homework15.genruntimeconfig.cache
+C:\Cisharp\Seminar1\Homework15\obj\Debug\net6.0\ref\Homework15.dll
